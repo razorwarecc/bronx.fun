@@ -1,0 +1,11 @@
+if not isfolder("bronx.fun/hitsounds") then makefolder("bronx.fun/hitsounds") end
+if not isfile("bronx.fun/hitsounds/banana.mp3") then writefile("bronx.fun/hitsounds/banana.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/banana.mp3")) end
+if not isfile("bronx.fun/hitsounds/generic.mp3") then writefile("bronx.fun/hitsounds/generic.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/generic.mp3")) end
+if not isfile("bronx.fun/hitsounds/lol.mp3") then writefile("bronx.fun/hitsounds/lol.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/lol.mp3")) end
+if not isfile("bronx.fun/hitsounds/minecraft.mp3") then writefile("bronx.fun/hitsounds/minecraft.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/minecraft.mp3")) end
+if not isfile("bronx.fun/hitsounds/neverlose.mp3") then writefile("bronx.fun/hitsounds/neverlose.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/neverlose.mp3")) end
+if not isfile("bronx.fun/hitsounds/pokimane.mp3") then writefile("bronx.fun/hitsounds/pokimane.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/pokimane.mp3")) end
+if not isfile("bronx.fun/hitsounds/rust.mp3") then writefile("bronx.fun/hitsounds/rust.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/rust.mp3")) end
+if not isfile("bronx.fun/hitsounds/skeet.mp3") then writefile("bronx.fun/hitsounds/skeet.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/skeet.mp3")) end
+if not isfile("bronx.fun/hitsounds/tf2.mp3") then writefile("bronx.fun/hitsounds/tf2.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/tf2.mp3")) end
+if not isfile("bronx.fun/hitsounds/uwu.mp3") then writefile("bronx.fun/hitsounds/uwu.mp3", game:HttpGet("https://raw.githubusercontent.com/razorwarecc/fentanylhitsounds/main/uwu.mp3")) end
